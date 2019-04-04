@@ -10,3 +10,5 @@ package:
 functions:
   hello:
     handler: CsharpHandlers::AwsDotnetCsharp.Handler::Hello
+
+
